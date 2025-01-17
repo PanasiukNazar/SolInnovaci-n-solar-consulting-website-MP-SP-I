@@ -10659,12 +10659,12 @@ a {
     -webkit-transition: 0.3s all ease;
     -o-transition: 0.3s all ease;
     transition: 0.3s all ease;
-    color: #3e64ff;
+    color: #000000ff;
 }
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #3e64ff;
+    color: #000000ff;
     outline: none !important;
 }
 
@@ -10684,7 +10684,7 @@ h5,
 }
 
 .text-primary {
-    color: #3e64ff !important;
+    color: #000000ff !important;
 }
 
 .topper {
@@ -10704,7 +10704,7 @@ h5,
     border-radius: 50%;
 }
 .topper .icon span {
-    color: #3e64ff;
+    color: #000000ff;
     font-size: 24px;
 }
 .topper .text {
@@ -10795,13 +10795,13 @@ h5,
 }
 
 .ftco-navbar-light {
-    background: #3e64ff !important;
+    background: #000000ff !important;
     z-index: 3;
     padding: 0;
 }
 @media (max-width: 991.98px) {
     .ftco-navbar-light {
-        background: #3e64ff !important;
+        background: #000000ff !important;
         position: relative;
         top: 0;
         padding: 10px 15px;
@@ -10901,7 +10901,7 @@ h5,
 @media (max-width: 991.98px) {
     .ftco-navbar-light .navbar-nav > .nav-item.cta > a {
         color: #fff;
-        background: #3e64ff;
+        background: #000000ff;
     }
 }
 .ftco-navbar-light .navbar-nav > .nav-item.active > a {
@@ -10937,11 +10937,11 @@ h5,
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
 }
 .ftco-navbar-light.scrolled .nav-item.active > a {
-    color: #3e64ff !important;
+    color: #000000ff !important;
 }
 .ftco-navbar-light.scrolled .nav-item.cta > a {
     color: #fff !important;
-    background: #3e64ff;
+    background: #000000ff;
     border: none !important;
 }
 .ftco-navbar-light.scrolled .nav-item.cta > a span {
@@ -10949,7 +10949,7 @@ h5,
     color: #fff !important;
 }
 .ftco-navbar-light.scrolled .nav-item.cta.cta-colored span {
-    border-color: #3e64ff;
+    border-color: #000000ff;
 }
 @media (max-width: 991.98px) {
     .ftco-navbar-light.scrolled .navbar-nav {
@@ -10982,7 +10982,7 @@ h5,
     color: #000000 !important;
 }
 .ftco-navbar-light.scrolled .nav-link.active {
-    color: #3e64ff !important;
+    color: #000000ff !important;
 }
 .ftco-navbar-light.scrolled.awake {
     margin-top: 0px;
@@ -11076,7 +11076,7 @@ h5,
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
     margin-top: -10px;
-    color: #3e64ff !important;
+    color: #000000ff !important;
     -moz-transition: all 0.7s ease;
     -o-transition: all 0.7s ease;
     -webkit-transition: all 0.7s ease;
@@ -11269,7 +11269,7 @@ h5,
     height: 10px;
     margin: 5px;
     border-radius: 50%;
-    background: #3e64ff;
+    background: #000000ff;
 }
 .owl-carousel.home-slider .owl-dots .owl-dot.active {
     background: #fff;
@@ -11288,7 +11288,7 @@ h5,
 }
 
 .bg-primary {
-    background: #3e64ff;
+    background: #000000ff;
 }
 
 .bg-secondary {
@@ -11326,35 +11326,35 @@ h5,
     outline: none;
 }
 .btn.btn-primary {
-    background: #3e64ff;
-    border: 1px solid #3e64ff;
+    background: #000000ff;
+    border: 1px solid #000000ff;
     color: #fff;
 }
 .btn.btn-primary:hover {
-    border: 1px solid #3e64ff;
+    border: 1px solid #000000ff;
     background: transparent;
-    color: #3e64ff;
+    color: #000000ff;
 }
 .btn.btn-primary.btn-outline-primary {
-    border: 1px solid #3e64ff;
+    border: 1px solid #000000ff;
     background: transparent;
-    color: #3e64ff;
+    color: #000000ff;
 }
 .btn.btn-primary.btn-outline-primary:hover {
     border: 1px solid transparent;
-    background: #3e64ff;
+    background: #000000ff;
     color: #fff;
 }
 .btn.btn-white {
     background: #fff;
     border: 1px solid #fff;
-    color: #3e64ff;
+    color: #000000ff;
 }
 .btn.btn-white:hover,
 .btn.btn-white:focus,
 .btn.btn-white:active {
     border: 1px solid #fff;
-    color: #3e64ff;
+    color: #000000ff;
 }
 .btn.btn-white.btn-outline-white {
     border-color: rgba(255, 255, 255, 0.8);
@@ -11371,7 +11371,7 @@ h5,
 .btn.btn-white.btn-outline-white:active {
     background: #fff;
     border-color: #fff;
-    color: #3e64ff;
+    color: #000000ff;
 }
 .btn.btn-secondary {
     background: #fa5c20;
@@ -11496,7 +11496,7 @@ h5,
     margin-bottom: 5px;
 }
 .staff .text .position {
-    color: #3e64ff;
+    color: #000000ff;
     display: block;
     font-weight: 500;
     display: inline-block;
@@ -11548,7 +11548,7 @@ h5,
 }
 .staff:hover .text h3,
 .staff:focus .text h3 {
-    color: #3e64ff;
+    color: #000000ff;
 }
 
 .ftco-social {
@@ -11568,12 +11568,12 @@ h5,
     border: 1px solid rgba(0, 0, 0, 0.1);
 }
 .tabulation-2 .nav-pills .nav-item .nav-link span {
-    color: #3e64ff;
+    color: #000000ff;
 }
 .tabulation-2 .nav-pills .nav-item .nav-link.active {
     color: #fff;
-    background: #3e64ff;
-    border: 1px solid #3e64ff;
+    background: #000000ff;
+    border: 1px solid #000000ff;
 }
 .tabulation-2 .nav-pills .nav-item .nav-link.active span {
     color: #fff;
@@ -11598,13 +11598,13 @@ h5,
     line-height: 30px;
 }
 .tabulation .nav-pills .nav-item .nav-link span {
-    color: #3e64ff;
+    color: #000000ff;
     font-size: 30px;
 }
 .tabulation .nav-pills .nav-item .nav-link.active {
     color: #fff;
-    background: #3e64ff;
-    border: 1px solid #3e64ff;
+    background: #000000ff;
+    border: 1px solid #000000ff;
 }
 .tabulation .nav-pills .nav-item .nav-link.active span {
     color: #fff;
@@ -11644,7 +11644,7 @@ h5,
 }
 .services .icon span {
     font-size: 50px;
-    color: #3e64ff;
+    color: #000000ff;
 }
 @media (max-width: 767.98px) {
     .services .media-body {
@@ -11669,7 +11669,7 @@ h5,
 }
 .services-2 .icon span {
     font-size: 50px;
-    color: #3e64ff;
+    color: #000000ff;
 }
 .services-2 h3 {
     font-size: 20px;
@@ -11685,7 +11685,7 @@ h5,
     height: 230px;
 }
 .project .cat {
-    color: #3e64ff;
+    color: #000000ff;
     display: inline-block;
     background: #f1f3ff;
     border-radius: 30px;
@@ -11725,7 +11725,7 @@ h5,
     z-index: 0;
     opacity: 0;
     position: relative;
-    background: #3e64ff;
+    background: #000000ff;
     -moz-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     -webkit-transition: all 0.3s ease;
@@ -11780,7 +11780,7 @@ h5,
 .blog-entry .text .heading a:hover,
 .blog-entry .text .heading a:focus,
 .blog-entry .text .heading a:active {
-    color: #3e64ff;
+    color: #000000ff;
 }
 .blog-entry .text .meta-chat {
     color: #b3b3b3;
@@ -11840,7 +11840,7 @@ h5,
 }
 .block-27 ul li.active a,
 .block-27 ul li.active span {
-    background: #3e64ff;
+    background: #000000ff;
     color: #fff;
     border: 1px solid transparent;
 }
@@ -11892,7 +11892,7 @@ textarea.form-control {
 }
 
 .bg-primary {
-    background: #3e64ff !important;
+    background: #000000ff !important;
 }
 
 .about-author .desc h3 {
@@ -11933,7 +11933,7 @@ textarea.form-control {
     font-weight: 600;
 }
 .ftco-footer .ftco-footer-widget .logo {
-    color: #3e64ff;
+    color: #000000ff;
 }
 .ftco-footer .ftco-footer-widget .logo span {
     color: #fa5c20;
@@ -12007,7 +12007,7 @@ textarea.form-control {
 .ftco-footer .subscribe-form .form-group .submit {
     color: #fff !important;
     font-size: 16px;
-    background: #3e64ff !important;
+    background: #000000ff !important;
     border: none !important;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
@@ -12021,7 +12021,7 @@ textarea.form-control {
 }
 .ftco-footer .subscribe-form .form-group .submit:hover {
     cursor: pointer;
-    background: #3e64ff !important;
+    background: #000000ff !important;
 }
 .ftco-footer .subscribe-form .icon {
     position: absolute;
@@ -12042,7 +12042,7 @@ textarea.form-control {
 .ftco-footer .block-21 .text .heading a:hover,
 .ftco-footer .block-21 .text .heading a:active,
 .ftco-footer .block-21 .text .heading a:focus {
-    color: #3e64ff;
+    color: #000000ff;
 }
 .ftco-footer .block-21 .text .meta > div {
     display: inline-block;
@@ -12063,7 +12063,7 @@ textarea.form-control {
     width: 40px;
     display: block;
     float: left;
-    background: #3e64ff;
+    background: #000000ff;
     border-radius: 50%;
     position: relative;
 }
@@ -12088,14 +12088,14 @@ textarea.form-control {
 }
 .footer-small-nav > li a:hover,
 .footer-small-nav > li a:focus {
-    color: #3e64ff;
+    color: #000000ff;
 }
 
 .media .ftco-icon {
     width: 100px;
 }
 .media .ftco-icon span {
-    color: #3e64ff;
+    color: #000000ff;
 }
 
 #map {
@@ -12144,7 +12144,7 @@ textarea.form-control {
     margin-bottom: 0;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #3e64ff;
+    color: #000000ff;
     position: relative;
 }
 
@@ -12261,7 +12261,7 @@ textarea.form-control {
     background: rgba(0, 0, 0, 0.2);
 }
 .testimony-section .owl-dots .owl-dot.active {
-    background: #3e64ff;
+    background: #000000ff;
 }
 
 .testimony-wrap {
@@ -12290,7 +12290,7 @@ textarea.form-control {
 }
 .testimony-wrap .quote i {
     font-size: 40px;
-    color: #3e64ff;
+    color: #000000ff;
 }
 .testimony-wrap .name {
     font-weight: 400;
@@ -12300,7 +12300,7 @@ textarea.form-control {
 }
 .testimony-wrap .position {
     font-size: 14px;
-    color: #3e64ff;
+    color: #000000ff;
 }
 
 @media (max-width: 767.98px) {
@@ -12360,7 +12360,7 @@ textarea.form-control {
 }
 .icon-video span {
     font-size: 30px;
-    color: #3e64ff;
+    color: #000000ff;
 }
 
 .ftco-intro {
@@ -12377,19 +12377,19 @@ textarea.form-control {
     content: '';
     z-index: -1;
     opacity: 0.9;
-    background: #3e64ff;
+    background: #000000ff;
     background: #3e65ff;
-    background: -moz-linear-gradient(45deg, #3e65ff 0%, #6881e6 100%);
+    background: -moz-linear-gradient(45deg, #000 0%, #000000a3 100%);
     background: -webkit-gradient(
         left bottom,
         right top,
         color-stop(0%, #3e65ff),
         color-stop(100%, #6881e6)
     );
-    background: -webkit-linear-gradient(45deg, #3e65ff 0%, #6881e6 100%);
-    background: -o-linear-gradient(45deg, #3e65ff 0%, #6881e6 100%);
-    background: -ms-linear-gradient(45deg, #3e65ff 0%, #6881e6 100%);
-    background: linear-gradient(45deg, #3e65ff 0%, #6881e6 100%);
+    background: -webkit-linear-gradient(45deg, #000 0%, #000000a3 100%);
+    background: -o-linear-gradient(45deg, #000 0%, #000000a3 100%);
+    background: -ms-linear-gradient(45deg, #000 0%, #000000a3 100%);
+    background: linear-gradient(45deg, #000 0%, #000000a3 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3e65ff', endColorstr='#6881e6', GradientType=1 );
 }
 .ftco-intro .btn {
@@ -12435,7 +12435,7 @@ textarea.form-control {
 .ftco-counter .text strong.number {
     font-weight: 400;
     font-size: 50px;
-    color: #3e64ff;
+    color: #000000ff;
     display: block;
     position: relative;
     line-height: 1;
@@ -12471,17 +12471,17 @@ textarea.form-control {
     content: '';
     opacity: 0.8;
     background: #3e65ff;
-    background: -moz-linear-gradient(45deg, #3e65ff 0%, #6881e6 100%);
+    background: -moz-linear-gradient(45deg, #000 0%, #000000a3 100%);
     background: -webkit-gradient(
         left bottom,
         right top,
         color-stop(0%, #3e65ff),
         color-stop(100%, #6881e6)
     );
-    background: -webkit-linear-gradient(45deg, #3e65ff 0%, #6881e6 100%);
-    background: -o-linear-gradient(45deg, #3e65ff 0%, #6881e6 100%);
-    background: -ms-linear-gradient(45deg, #3e65ff 0%, #6881e6 100%);
-    background: linear-gradient(45deg, #3e65ff 0%, #6881e6 100%);
+    background: -webkit-linear-gradient(45deg, #000 0%, #000000a3 100%);
+    background: -o-linear-gradient(45deg, #000 0%, #000000a3 100%);
+    background: -ms-linear-gradient(45deg, #000 0%, #000000a3 100%);
+    background: linear-gradient(45deg, #000 0%, #000000a3 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3e65ff', endColorstr='#6881e6', GradientType=1 );
 }
 .ftco-consult .heading-white {
@@ -12594,7 +12594,7 @@ textarea.form-control {
 
 .contact-section .contact-info .icon span {
     font-size: 20px;
-    color: #3e64ff;
+    color: #000000ff;
 }
 
 .contact-section .contact-form {
@@ -12637,7 +12637,7 @@ textarea.form-control {
 .block-21 .text .heading a:hover,
 .block-21 .text .heading a:active,
 .block-21 .text .heading a:focus {
-    color: #3e64ff;
+    color: #000000ff;
 }
 .block-21 .text .meta > div {
     display: inline-block;
@@ -12761,7 +12761,7 @@ textarea.form-control {
 }
 
 .subs-wrap {
-    background: #3e64ff !important;
+    background: #000000ff !important;
     display: block;
     width: 100%;
     color: rgba(255, 255, 255, 0.7);
